@@ -36,6 +36,9 @@ Music
 - vgmdb.net
 - imvdb.com
 
+## Adding new metadata providers
+If you need to add a new metadata provider, just leave a link to the plugin that adds the metadata provider.
+
 ## Installation
 Copy the contents of icon.css to the Shared - Customizable CSS code
 ![install](https://github.com/user-attachments/assets/0cc07cfd-e419-4bd9-92d8-a406a6128535)
