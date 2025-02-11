@@ -3,7 +3,7 @@
 ## 🔥 Description
 It helps to add metadata provider icons instead of text.
 Supports the following providers:
-Film/Serial/Anime
+Film/Serial/Anime/Music
 - anilist.co
 - anidb.net
 - anisearch.com
