@@ -1,3 +1,5 @@
+}
+
 a[href*="https://search.worldcat.org"]::before {
 	content: "";
 	display: inline-block;
