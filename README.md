@@ -49,3 +49,14 @@ For the local metadata provider (Stash and Shoko) to work, you need to replace t
 ![книги](https://github.com/user-attachments/assets/2f13825d-5f07-4dea-87b3-e3ab81120c47)
 ![аниме](https://github.com/user-attachments/assets/ac0ecad3-3cbe-417d-ad3f-0df5dded6613)
 ![аниме серия](https://github.com/user-attachments/assets/2a04a2f9-ac98-4017-a838-37ca733489eb)
+
+**I borrowed the original idea of using icons from the theme https://github.com/tedhinklater/finimalism**
+
+## Error
+The metadata provider's logo appears on top of the images for uploading images.
+![ошибка](https://github.com/user-attachments/assets/1546e704-a2a9-4af2-b105-8a8a5c6fe16c)
+
+## Plans
+- to import icons with a single link
+- transfer images to a local jf instance
+- clean up the order of providers and separate the local metadata providers
