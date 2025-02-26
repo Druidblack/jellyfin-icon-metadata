@@ -53,7 +53,7 @@ To add a new metadata provider, simply provide a link to the plugin that integra
 Most icons can be imported using the following CSS:
 
 ```css
-@import url("https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/public-icon.css");
+@import url("https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/public-icon.css");
 ```
 
 Add this to `Dashboard -> General -> Custom CSS code`.
