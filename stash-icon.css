@@ -1,4 +1,4 @@
-.itemExternalLinks a[href*="http://localhost:9999/scenes"]::before {
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"]::before {
 	content: "";
 	display: inline-block;
 	width: 35px;
@@ -10,6 +10,6 @@
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://localhost:9999/scenes"] {
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"] {
 	font-size: 0;
 }

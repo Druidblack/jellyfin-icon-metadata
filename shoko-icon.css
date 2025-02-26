@@ -1,4 +1,4 @@
-.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/group"]::before {
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/group"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -10,11 +10,11 @@
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/group"] {
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/group"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/series"]::before {
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/series"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -26,11 +26,11 @@
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/series"] {
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/series"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/episode"]::before {
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/episode"]::before {
 	content: "";
 	display: inline-block;
 	width: 65px;
@@ -42,11 +42,11 @@
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/episode"] {
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/episode"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/file"]::before {
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/file"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -58,6 +58,6 @@
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/file"] {
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/file"] {
 	font-size: 0;
 }
