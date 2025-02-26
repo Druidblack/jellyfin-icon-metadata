@@ -42,7 +42,7 @@ If you need to add a new metadata provider, just leave a link to the plugin that
 ## Installation
 Copy the contents of icon.css to the Shared - Customizable CSS code
 ![install](https://github.com/user-attachments/assets/0cc07cfd-e419-4bd9-92d8-a406a6128535)
-For the local metadata provider (Stash and Shoko) to work, you need to replace the address with yours. For stash, search on port 9999, for shoka 8113
+For the local metadata provider (Stash and Shoko) to work, you need to replace the address with yours. For stash, search on port 9999, for shoko 8113
 
 ## Screenshots
 ![фильмы](https://github.com/user-attachments/assets/b7645f41-bf4a-4929-b14e-1e7b78f8a99a)
