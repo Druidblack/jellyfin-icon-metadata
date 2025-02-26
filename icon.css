@@ -1,4 +1,4 @@
-a[href*="https://search.worldcat.org"]::before {
+.itemExternalLinks a[href*="https://search.worldcat.org"]::before {
 	content: "";
 	display: inline-block;
 	width: 70px;
@@ -10,12 +10,12 @@ a[href*="https://search.worldcat.org"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://search.worldcat.org"] {
+.itemExternalLinks a[href*="https://search.worldcat.org"] {
 	font-size: 0;
 
 }
 
-a[href*="https://books.google.com"]::before {
+.itemExternalLinks a[href*="https://books.google.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 25px;
@@ -27,12 +27,12 @@ a[href*="https://books.google.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://books.google.com"] {
+.itemExternalLinks a[href*="https://books.google.com"] {
 	font-size: 0;
 
 }
 
-a[href*="https://comicvine.gamespot.com"]::before {
+.itemExternalLinks a[href*="https://comicvine.gamespot.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 50px;
@@ -44,12 +44,12 @@ a[href*="https://comicvine.gamespot.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://comicvine.gamespot.com"] {
+.itemExternalLinks a[href*="https://comicvine.gamespot.com"] {
 	font-size: 0;
 
 }
 
-a[href*="anisearch.com"]::before {
+.itemExternalLinks a[href*="anisearch.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -61,12 +61,12 @@ a[href*="anisearch.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="anisearch.com"] {
+.itemExternalLinks a[href*="anisearch.com"] {
 	font-size: 0;
 
 }
 
-a[href*="tvlistings.zap2it.com"]::before {
+.itemExternalLinks a[href*="tvlistings.zap2it.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 25px;
@@ -78,12 +78,12 @@ a[href*="tvlistings.zap2it.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="tvlistings.zap2it.com"] {
+.itemExternalLinks a[href*="tvlistings.zap2it.com"] {
 	font-size: 0;
 
 }
 
-a[href*="imdb.com"]::before {
+.itemExternalLinks a[href*="imdb.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 50px;
@@ -95,11 +95,11 @@ a[href*="imdb.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="imdb.com"] {
+.itemExternalLinks a[href*="imdb.com"] {
 	font-size: 0;
 }
 
-a[href*="trakt.tv"]::before {
+.itemExternalLinks a[href*="trakt.tv"]::before {
 	content: "";
 	display: inline-block;
 	width: 25px;
@@ -111,11 +111,11 @@ a[href*="trakt.tv"]::before {
 	vertical-align: middle;
 }
 
-a[href*="trakt.tv"] {
+.itemExternalLinks a[href*="trakt.tv"] {
 	font-size: 0;
 }
 
-a[href*="themoviedb.org"]::before {
+.itemExternalLinks a[href*="themoviedb.org"]::before {
 	content: "";
 	display: inline-block;
 	width: 50px;
@@ -127,11 +127,11 @@ a[href*="themoviedb.org"]::before {
 	vertical-align: middle;
 }
 
-a[href*="themoviedb.org"] {
+.itemExternalLinks a[href*="themoviedb.org"] {
 	font-size: 0;
 }
 
-a[href*="themoviedb.org/collection"]::before {
+.itemExternalLinks a[href*="themoviedb.org/collection"]::before {
 	content: "";
 	display: inline-block;
 	width: 100px;
@@ -143,7 +143,7 @@ a[href*="themoviedb.org/collection"]::before {
 	vertical-align: middle;
 }
 
-a[href*="thetvdb.com"]::before {
+.itemExternalLinks a[href*="thetvdb.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 50px;
@@ -155,11 +155,11 @@ a[href*="thetvdb.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="thetvdb.com"] {
+.itemExternalLinks a[href*="thetvdb.com"] {
 	font-size: 0;
 }
 
-a[href*="tvmaze.com"]::before {
+.itemExternalLinks a[href*="tvmaze.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 80px;
@@ -171,11 +171,11 @@ a[href*="tvmaze.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="tvmaze.com"] {
+.itemExternalLinks a[href*="tvmaze.com"] {
 	font-size: 0;
 }
 
-a[href*="anidb.net"]::before {
+.itemExternalLinks a[href*="anidb.net"]::before {
 	content: "";
 	display: inline-block;
 	width: 100px;
@@ -187,11 +187,11 @@ a[href*="anidb.net"]::before {
 	vertical-align: middle;
 }
 
-a[href*="anidb.net"] {
+.itemExternalLinks a[href*="anidb.net"] {
 	font-size: 0;
 }
 
-a[href*="anilist.co"]::before {
+.itemExternalLinks a[href*="anilist.co"]::before {
 	content: "";
 	display: inline-block;
 	width: 25px;
@@ -203,11 +203,11 @@ a[href*="anilist.co"]::before {
 	vertical-align: middle;
 }
 
-a[href*="anilist.co"] {
+.itemExternalLinks a[href*="anilist.co"] {
 	font-size: 0;
 }
 
-a[href*="kitsu.io"]::before {
+.itemExternalLinks a[href*="kitsu.io"]::before {
 	content: "";
 	display: inline-block;
 	width: 70px;
@@ -219,11 +219,11 @@ a[href*="kitsu.io"]::before {
 	vertical-align: middle;
 }
 
-a[href*="kitsu.io"] {
+.itemExternalLinks a[href*="kitsu.io"] {
 	font-size: 0;
 }
 
-a[href*="kinopoisk.ru"]::before {
+.itemExternalLinks a[href*="kinopoisk.ru"]::before {
 	content: "";
 	display: inline-block;
 	width: 100px;
@@ -235,11 +235,11 @@ a[href*="kinopoisk.ru"]::before {
 	vertical-align: middle;
 }
 
-a[href*="kinopoisk.ru"] {
+.itemExternalLinks a[href*="kinopoisk.ru"] {
 	font-size: 0;
 }
 
-a[href*="myanimelist.net"]::before {
+.itemExternalLinks a[href*="myanimelist.net"]::before {
 	content: "";
 	display: inline-block;
 	width: 100px;
@@ -251,11 +251,11 @@ a[href*="myanimelist.net"]::before {
 	vertical-align: middle;
 }
 
-a[href*="myanimelist.net"] {
+.itemExternalLinks a[href*="myanimelist.net"] {
 	font-size: 0;
 }
 
-a[href*="shikimori.one"]::before {
+.itemExternalLinks a[href*="shikimori.one"]::before {
 	content: "";
 	display: inline-block;
 	width: 25px;
@@ -267,11 +267,11 @@ a[href*="shikimori.one"]::before {
 	vertical-align: middle;
 }
 
-a[href*="shikimori.one"] {
+.itemExternalLinks a[href*="shikimori.one"] {
 	font-size: 0;
 }
 
-a[href*="http://192.168.1.161:8113/webui/collection/group"]::before {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/group"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -283,11 +283,11 @@ a[href*="http://192.168.1.161:8113/webui/collection/group"]::before {
 	vertical-align: middle;
 }
 
-a[href*="http://192.168.1.161:8113/webui/collection/group"] {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/group"] {
 	font-size: 0;
 }
 
-a[href*="http://192.168.1.161:8113/webui/collection/series"]::before {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/series"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -299,11 +299,11 @@ a[href*="http://192.168.1.161:8113/webui/collection/series"]::before {
 	vertical-align: middle;
 }
 
-a[href*="http://192.168.1.161:8113/webui/collection/series"] {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/series"] {
 	font-size: 0;
 }
 
-a[href*="http://192.168.1.161:8113/webui/redirect/episode"]::before {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/episode"]::before {
 	content: "";
 	display: inline-block;
 	width: 65px;
@@ -315,11 +315,11 @@ a[href*="http://192.168.1.161:8113/webui/redirect/episode"]::before {
 	vertical-align: middle;
 }
 
-a[href*="http://192.168.1.161:8113/webui/redirect/episode"] {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/episode"] {
 	font-size: 0;
 }
 
-a[href*="http://192.168.1.161:8113/webui/redirect/file"]::before {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/file"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -331,11 +331,11 @@ a[href*="http://192.168.1.161:8113/webui/redirect/file"]::before {
 	vertical-align: middle;
 }
 
-a[href*="http://192.168.1.161:8113/webui/redirect/file"] {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/file"] {
 	font-size: 0;
 }
 
-a[href*="http://localhost:9999/scenes"]::before {
+.itemExternalLinks a[href*="http://localhost:9999/scenes"]::before {
 	content: "";
 	display: inline-block;
 	width: 35px;
@@ -347,11 +347,11 @@ a[href*="http://localhost:9999/scenes"]::before {
 	vertical-align: middle;
 }
 
-a[href*="http://localhost:9999/scenes"] {
+.itemExternalLinks a[href*="http://localhost:9999/scenes"] {
 	font-size: 0;
 }
 
-a[href*="https://theporndb.net"]::before {
+.itemExternalLinks a[href*="https://theporndb.net"]::before {
 	content: "";
 	display: inline-block;
 	width: 80px;
@@ -363,11 +363,11 @@ a[href*="https://theporndb.net"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://theporndb.net"] {
+.itemExternalLinks a[href*="https://theporndb.net"] {
 	font-size: 0;
 }
 
-a[href*="https://music.apple.com"]::before {
+.itemExternalLinks a[href*="https://music.apple.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 100px;
@@ -379,11 +379,11 @@ a[href*="https://music.apple.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://music.apple.com"] {
+.itemExternalLinks a[href*="https://music.apple.com"] {
 	font-size: 0;
 }
 
-a[href*="https://www.discogs.com/artist"]::before {
+.itemExternalLinks a[href*="https://www.discogs.com/artist"]::before {
 	content: "";
 	display: inline-block;
 	width: 50px;
@@ -395,11 +395,11 @@ a[href*="https://www.discogs.com/artist"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://www.discogs.com/artist"] {
+.itemExternalLinks a[href*="https://www.discogs.com/artist"] {
 	font-size: 0;
 }
 
-a[href*="https://imvdb.com"]::before {
+.itemExternalLinks a[href*="https://imvdb.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 50px;
@@ -411,11 +411,11 @@ a[href*="https://imvdb.com"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://imvdb.com"] {
+.itemExternalLinks a[href*="https://imvdb.com"] {
 	font-size: 0;
 }
 
-a[href*="https://musicbrainz.org/artist"]::before {
+.itemExternalLinks a[href*="https://musicbrainz.org/artist"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -427,11 +427,11 @@ a[href*="https://musicbrainz.org/artist"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://musicbrainz.org/artist"] {
+.itemExternalLinks a[href*="https://musicbrainz.org/artist"] {
 	font-size: 0;
 }
 
-a[href*="https://www.theaudiodb.com/artist"]::before {
+.itemExternalLinks a[href*="https://www.theaudiodb.com/artist"]::before {
 	content: "";
 	display: inline-block;
 	width: 80px;
@@ -443,11 +443,11 @@ a[href*="https://www.theaudiodb.com/artist"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://www.theaudiodb.com/artist"] {
+.itemExternalLinks a[href*="https://www.theaudiodb.com/artist"] {
 	font-size: 0;
 }
 
-a[href*="https://vgmdb.net/artist"]::before {
+.itemExternalLinks a[href*="https://vgmdb.net/artist"]::before {
 	content: "";
 	display: inline-block;
 	width: 75px;
@@ -459,11 +459,11 @@ a[href*="https://vgmdb.net/artist"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://vgmdb.net/artist"] {
+.itemExternalLinks a[href*="https://vgmdb.net/artist"] {
 	font-size: 0;
 }
 
-a[href*="https://vgmdb.net/album"]::before {
+.itemExternalLinks a[href*="https://vgmdb.net/album"]::before {
 	content: "";
 	display: inline-block;
 	width: 75px;
@@ -475,11 +475,11 @@ a[href*="https://vgmdb.net/album"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://vgmdb.net/album"] {
+.itemExternalLinks a[href*="https://vgmdb.net/album"] {
 	font-size: 0;
 }
 
-a[href*="https://www.theaudiodb.com/album"]::before {
+.itemExternalLinks a[href*="https://www.theaudiodb.com/album"]::before {
 	content: "";
 	display: inline-block;
 	width: 90px;
@@ -491,11 +491,11 @@ a[href*="https://www.theaudiodb.com/album"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://www.theaudiodb.com/album"] {
+.itemExternalLinks a[href*="https://www.theaudiodb.com/album"] {
 	font-size: 0;
 }
 
-a[href*="https://musicbrainz.org/release-group/"]::before {
+.itemExternalLinks a[href*="https://musicbrainz.org/release-group/"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
@@ -507,11 +507,11 @@ a[href*="https://musicbrainz.org/release-group/"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://musicbrainz.org/release-group/"] {
+.itemExternalLinks a[href*="https://musicbrainz.org/release-group/"] {
 	font-size: 0;
 }
 
-a[href*="https://musicbrainz.org/release/"]::before {
+.itemExternalLinks a[href*="https://musicbrainz.org/release/"]::before {
 	content: "";
 	display: inline-block;
 	width: 70px;
@@ -523,11 +523,11 @@ a[href*="https://musicbrainz.org/release/"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://musicbrainz.org/release/"] {
+.itemExternalLinks a[href*="https://musicbrainz.org/release/"] {
 	font-size: 0;
 }
 
-a[href*="https://www.discogs.com/release"]::before {
+.itemExternalLinks a[href*="https://www.discogs.com/release"]::before {
 	content: "";
 	display: inline-block;
 	width: 55px;
@@ -539,11 +539,11 @@ a[href*="https://www.discogs.com/release"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://www.discogs.com/release"] {
+.itemExternalLinks a[href*="https://www.discogs.com/release"] {
 	font-size: 0;
 }
 
-a[href*="https://www.discogs.com/master"]::before {
+.itemExternalLinks a[href*="https://www.discogs.com/master"]::before {
 	content: "";
 	display: inline-block;
 	width: 55px;
@@ -555,11 +555,11 @@ a[href*="https://www.discogs.com/master"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://www.discogs.com/master"] {
+.itemExternalLinks a[href*="https://www.discogs.com/master"] {
 	font-size: 0;
 }
 
-a[href*="https://movie.douban.com/subject"]::before {
+.itemExternalLinks a[href*="https://movie.douban.com/subject"]::before {
 	content: "";
 	display: inline-block;
 	width: 90px;
@@ -571,7 +571,7 @@ a[href*="https://movie.douban.com/subject"]::before {
 	vertical-align: middle;
 }
 
-a[href*="https://movie.douban.com/subject"] {
+.itemExternalLinks a[href*="https://movie.douban.com/subject"] {
 	font-size: 0;
 }
 
