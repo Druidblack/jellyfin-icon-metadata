@@ -56,7 +56,7 @@ Most icons can be imported using the following CSS:
 @import url("https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/public-icon.css");
 ```
 
-Add this to `Dashboard -> General -> Custom CSS code`.
+Add this to the top of `Dashboard -> General -> Custom CSS code`.
 
 ### Local Metadata Providers
 
@@ -64,7 +64,7 @@ For local metadata providers like Stash and Shoko, update the CSS files with you
 
 #### Shoko
 
-Modify and add the following CSS to `Dashboard -> General -> Custom CSS code`:
+Modify and add the following CSS to the top of `Dashboard -> General -> Custom CSS code`:
 
 ```css
 .itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/group"]::before {
@@ -134,7 +134,7 @@ Modify and add the following CSS to `Dashboard -> General -> Custom CSS code`:
 
 #### Stash
 
-Modify and add the following CSS to `Dashboard -> General -> Custom CSS code`:
+Modify and add the following CSS to the top of `Dashboard -> General -> Custom CSS code`:
 
 ```css
 .itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"]::before {
