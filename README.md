@@ -53,7 +53,7 @@ To add a new metadata provider, simply provide a link to the plugin that integra
 Most icons can be imported using the following CSS:
 
 ```css
-@import url("https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/public-icon.css");
+@import url("https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/public-icon.css");
 ```
 
 Add this to `Dashboard -> General -> Custom CSS code`.
@@ -72,7 +72,7 @@ Modify and add the following CSS to `Dashboard -> General -> Custom CSS code`:
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-group.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-group.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
@@ -88,7 +88,7 @@ Modify and add the following CSS to `Dashboard -> General -> Custom CSS code`:
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-series.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-series.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
@@ -104,7 +104,7 @@ Modify and add the following CSS to `Dashboard -> General -> Custom CSS code`:
 	display: inline-block;
 	width: 65px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-episode.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-episode.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
@@ -120,7 +120,7 @@ Modify and add the following CSS to `Dashboard -> General -> Custom CSS code`:
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-file.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-file.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
@@ -142,7 +142,7 @@ Modify and add the following CSS to `Dashboard -> General -> Custom CSS code`:
 	display: inline-block;
 	width: 35px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/stash/stash.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/stash/stash.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
