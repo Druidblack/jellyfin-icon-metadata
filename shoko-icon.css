@@ -3,7 +3,7 @@
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-group.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Arlind-dev/jellyfin-icon-metadata@main/icons/shoko/shoko-group.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
@@ -19,7 +19,7 @@
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-series.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Arlind-dev/jellyfin-icon-metadata@main/icons/shoko/shoko-series.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
@@ -35,7 +35,7 @@
 	display: inline-block;
 	width: 65px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-episode.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Arlind-dev/jellyfin-icon-metadata@main/icons/shoko/shoko-episode.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
@@ -51,7 +51,7 @@
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-file.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Arlind-dev/jellyfin-icon-metadata@main/icons/shoko/shoko-file.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;

@@ -3,7 +3,7 @@
 	display: inline-block;
 	width: 35px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Arlind-dev/jellyfin-icon-metadata/refs/heads/main/icons/stash/stash.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Arlind-dev/jellyfin-icon-metadata@main/icons/stash/stash.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
