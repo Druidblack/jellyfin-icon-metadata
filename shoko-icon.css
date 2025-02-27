@@ -1,0 +1,63 @@
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/group"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-group.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/group"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/series"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-series.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/series"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/episode"]::before {
+	content: "";
+	display: inline-block;
+	width: 65px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-episode.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/episode"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/file"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-file.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/file"] {
+	font-size: 0;
+}

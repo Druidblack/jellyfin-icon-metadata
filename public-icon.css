@@ -1,0 +1,497 @@
+.itemExternalLinks a[href*="anidb.net"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/anidb/anidb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="anidb.net"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="anilist.co"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/anilist/anilist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="anilist.co"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="anisearch.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 30px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/anisearch/anisearch.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="anisearch.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://books.google.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/googlebooks/googlebooks.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://books.google.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://comicvine.gamespot.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/comicvine/comicvine.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://comicvine.gamespot.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/artist"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/discogs/discogs-artist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/artist"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/release"]::before {
+	content: "";
+	display: inline-block;
+	width: 55px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/discogs/discogs-release.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/release"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/master"]::before {
+	content: "";
+	display: inline-block;
+	width: 55px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/discogs/discogs-master.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/master"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://movie.douban.com/subject"]::before {
+	content: "";
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/douban/douban.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://movie.douban.com/subject"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="imdb.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/imdb/imdb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="imdb.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://imvdb.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/imvdb/imvdb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://imvdb.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="kinopoisk.ru"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/kinopoisk/kinopoisk.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="kinopoisk.ru"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="kitsu.io"]::before {
+	content: "";
+	display: inline-block;
+	width: 70px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/kitsu/kitsu.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="kitsu.io"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://music.apple.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/applemusic/applemusic.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://music.apple.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/artist"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/musicbrainz/musicbrainz-artist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/artist"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release-group/"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/musicbrainz/musicbrainz-release-group.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release-group/"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release/"]::before {
+	content: "";
+	display: inline-block;
+	width: 70px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/musicbrainz/musicbrainz-release.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release/"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="myanimelist.net"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/myanimelist/myanimelist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="myanimelist.net"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://search.worldcat.org"]::before {
+	content: "";
+	display: inline-block;
+	width: 70px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/worldcat/worldcat.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://search.worldcat.org"] {
+	font-size: 0;
+
+}
+
+.itemExternalLinks a[href*="shikimori.one"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shikimori/shikimori.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="shikimori.one"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/artist"]::before {
+	content: "";
+	display: inline-block;
+	width: 80px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/theaudiodb/theaudiodb-artist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/artist"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/album"]::before {
+	content: "";
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/theaudiodb/theaudiodb-album.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/album"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="themoviedb.org"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/themoviedb/themoviedb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="themoviedb.org"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="themoviedb.org/collection"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/themoviedb/themoviedb-collection.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://theporndb.net"]::before {
+	content: "";
+	display: inline-block;
+	width: 80px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/theporndb/theporndb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://theporndb.net"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="thetvdb.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/thetvdb/thetvdb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="thetvdb.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="trakt.tv"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/trakt/trakt.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="trakt.tv"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="tvlistings.zap2it.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/zap2it/zap2it.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="tvlistings.zap2it.com"] {
+	font-size: 0;
+
+}
+
+.itemExternalLinks a[href*="tvmaze.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 80px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/tvmaze/tvmaze.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="tvmaze.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/artist"]::before {
+	content: "";
+	display: inline-block;
+	width: 75px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/vgmdb/vgmdb-artist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/artist"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/album"]::before {
+	content: "";
+	display: inline-block;
+	width: 75px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/vgmdb/vgmdb-album.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/album"] {
+	font-size: 0;
+}
+
+.itemExternalLinks.focuscontainer-x {
+	color: #000a;
+}
