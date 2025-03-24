@@ -206,7 +206,7 @@
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="kitsu.io"]::before {
+.itemExternalLinks a[href*="kitsu.app"]::before {
 	content: "";
 	display: inline-block;
 	width: 70px;
@@ -218,7 +218,7 @@
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="kitsu.io"] {
+.itemExternalLinks a[href*="kitsu.app"] {
 	font-size: 0;
 }
 
