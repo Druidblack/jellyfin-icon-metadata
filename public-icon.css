@@ -1,3 +1,19 @@
+.itemExternalLinks a[href*="bgm.tv"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/bgm_tv.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="bgm.tv"] {
+	font-size: 0;
+}
+
 .itemExternalLinks a[href*="anidb.net"]::before {
 	content: "";
 	display: inline-block;
