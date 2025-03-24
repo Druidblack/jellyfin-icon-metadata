@@ -11,6 +11,7 @@ Enhance your Jellyfin experience by replacing text-based metadata provider links
 - anilist.co
 - anidb.net
 - anisearch.com
+- bgm.tv
 - movie.douban.com
 - imdb.com
 - kitsu.io
