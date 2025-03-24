@@ -161,7 +161,7 @@ Modify and add the following CSS to the top of `Dashboard -> General -> Custom C
 ![Music Artist](https://github.com/user-attachments/assets/7ac06608-90b1-43d9-8c47-9acb5cb293e2)
 ![Music Album](https://github.com/user-attachments/assets/bbd02b34-59ee-46f4-9326-6f8aa1f18c99)
 ![Books](https://github.com/user-attachments/assets/2f13825d-5f07-4dea-87b3-e3ab81120c47)
-![Anime](https://github.com/user-attachments/assets/ac0ecad3-3cbe-417d-ad3f-0df5dded6613)
+![Anime](https://github.com/Druidblack/jellyfin-icon-metadata/blob/main/screen/anime%20menu.jpg)
 ![Anime Episode](https://github.com/user-attachments/assets/2a04a2f9-ac98-4017-a838-37ca733489eb)
 
 **Credits:** This idea was inspired by the theme [Finimalism](https://github.com/tedhinklater/finimalism).
