@@ -14,7 +14,7 @@ Enhance your Jellyfin experience by replacing text-based metadata provider links
 - bgm.tv
 - movie.douban.com
 - imdb.com
-- kitsu.io
+- kitsu.app
 - myanimelist.net
 - shikimori.one
 - Shoko (local metadata provider)
