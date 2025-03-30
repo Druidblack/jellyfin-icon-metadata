@@ -12,6 +12,7 @@ Enhance your Jellyfin experience by replacing text-based metadata provider links
 - anidb.net
 - anisearch.com
 - bgm.tv
+- hikka.io
 - movie.douban.com
 - imdb.com
 - kitsu.app
@@ -28,11 +29,12 @@ Enhance your Jellyfin experience by replacing text-based metadata provider links
 - kinopoisk.ru
 - tvlistings.zap2it.com
 
-#### Books/Comics
+#### Books/Comics/Manga
 
 - comicvine.gamespot.com
 - books.google.com
 - search.worldcat.org
+- hikka.io
 
 #### Music
 
