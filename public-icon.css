@@ -1,3 +1,19 @@
+.itemExternalLinks a[href*="hikka.io"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/hikka/hikka.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks a[href*="hikka.io"] {
+	font-size: 0;
+}
+
 .itemExternalLinks a[href*="bgm.tv"]::before {
 	content: "";
 	display: inline-block;
