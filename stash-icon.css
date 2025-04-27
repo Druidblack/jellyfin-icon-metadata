@@ -1,3 +1,9 @@
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
 .itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"]::before {
 	content: "";
 	display: inline-block;
@@ -8,6 +14,14 @@
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/scenes"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/scenes"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/scenes"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
 }
 
 .itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"] {
