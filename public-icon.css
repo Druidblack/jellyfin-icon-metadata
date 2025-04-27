@@ -1,3 +1,9 @@
+.itemExternalLinks a[href*="hikka.io"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
 .itemExternalLinks a[href*="hikka.io"]::before {
 	content: "";
 	display: inline-block;
@@ -10,8 +16,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="hikka.io"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="hikka.io"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="hikka.io"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="hikka.io"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="bgm.tv"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="bgm.tv"]::before {
@@ -26,8 +48,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="bgm.tv"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="bgm.tv"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="bgm.tv"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="bgm.tv"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="anidb.net"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="anidb.net"]::before {
@@ -42,8 +80,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anidb.net"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anidb.net"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anidb.net"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="anidb.net"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="anilist.co"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="anilist.co"]::before {
@@ -58,8 +112,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anilist.co"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anilist.co"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anilist.co"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="anilist.co"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="anisearch.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="anisearch.com"]::before {
@@ -74,11 +144,27 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anisearch.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anisearch.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anisearch.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="anisearch.com"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="https://books.google.com"]::before {
+.itemExternalLinks a[href*="books.google.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="books.google.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 25px;
@@ -90,11 +176,27 @@
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="https://books.google.com"] {
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="books.google.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="books.google.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="books.google.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="books.google.com"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="https://comicvine.gamespot.com"]::before {
+.itemExternalLinks a[href*="comicvine.gamespot.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="comicvine.gamespot.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 50px;
@@ -106,8 +208,24 @@
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="https://comicvine.gamespot.com"] {
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="comicvine.gamespot.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="comicvine.gamespot.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="comicvine.gamespot.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="comicvine.gamespot.com"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/artist"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://www.discogs.com/artist"]::before {
@@ -122,8 +240,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/artist"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/artist"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/artist"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://www.discogs.com/artist"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/release"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://www.discogs.com/release"]::before {
@@ -138,8 +272,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/release"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/release"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/release"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://www.discogs.com/release"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/master"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://www.discogs.com/master"]::before {
@@ -154,8 +304,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/master"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/master"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/master"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://www.discogs.com/master"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://movie.douban.com/subject"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://movie.douban.com/subject"]::before {
@@ -170,8 +336,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://movie.douban.com/subject"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://movie.douban.com/subject"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://movie.douban.com/subject"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://movie.douban.com/subject"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="imdb.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="imdb.com"]::before {
@@ -186,8 +368,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="imdb.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="imdb.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="imdb.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="imdb.com"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://imvdb.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://imvdb.com"]::before {
@@ -202,8 +400,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://imvdb.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://imvdb.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://imvdb.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://imvdb.com"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="kinopoisk.ru"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="kinopoisk.ru"]::before {
@@ -218,8 +432,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kinopoisk.ru"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kinopoisk.ru"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kinopoisk.ru"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="kinopoisk.ru"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="kitsu.app"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="kitsu.app"]::before {
@@ -234,8 +464,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kitsu.app"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kitsu.app"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kitsu.app"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="kitsu.app"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://music.apple.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://music.apple.com"]::before {
@@ -250,8 +496,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://music.apple.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://music.apple.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://music.apple.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://music.apple.com"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/artist"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://musicbrainz.org/artist"]::before {
@@ -266,8 +528,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/artist"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/artist"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/artist"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://musicbrainz.org/artist"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release-group/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://musicbrainz.org/release-group/"]::before {
@@ -282,8 +560,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release-group/"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release-group/"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release-group/"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://musicbrainz.org/release-group/"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://musicbrainz.org/release/"]::before {
@@ -298,8 +592,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release/"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release/"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release/"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://musicbrainz.org/release/"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="myanimelist.net"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="myanimelist.net"]::before {
@@ -314,8 +624,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="myanimelist.net"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="myanimelist.net"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="myanimelist.net"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="myanimelist.net"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://search.worldcat.org"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://search.worldcat.org"]::before {
@@ -330,9 +656,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://search.worldcat.org"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://search.worldcat.org"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://search.worldcat.org"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://search.worldcat.org"] {
 	font-size: 0;
+}
 
+.itemExternalLinks a[href*="shikimori.one"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="shikimori.one"]::before {
@@ -347,8 +688,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="shikimori.one"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/artist"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://www.theaudiodb.com/artist"]::before {
@@ -363,8 +720,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/artist"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/artist"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/artist"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://www.theaudiodb.com/artist"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/album"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://www.theaudiodb.com/album"]::before {
@@ -379,8 +752,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/album"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/album"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/album"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://www.theaudiodb.com/album"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="themoviedb.org"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="themoviedb.org"]::before {
@@ -395,8 +784,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="themoviedb.org"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="themoviedb.org/collection"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="themoviedb.org/collection"]::before {
@@ -411,6 +816,26 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org/collection"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org/collection"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org/collection"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="themoviedb.org/collection"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://theporndb.net"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
 .itemExternalLinks a[href*="https://theporndb.net"]::before {
 	content: "";
 	display: inline-block;
@@ -423,8 +848,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://theporndb.net"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://theporndb.net"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://theporndb.net"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://theporndb.net"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="thetvdb.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="thetvdb.com"]::before {
@@ -439,8 +880,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="thetvdb.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="thetvdb.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="thetvdb.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="thetvdb.com"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="trakt.tv"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="trakt.tv"]::before {
@@ -455,8 +912,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="trakt.tv"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="trakt.tv"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="trakt.tv"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="trakt.tv"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="tvlistings.zap2it.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="tvlistings.zap2it.com"]::before {
@@ -471,9 +944,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvlistings.zap2it.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvlistings.zap2it.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvlistings.zap2it.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="tvlistings.zap2it.com"] {
 	font-size: 0;
+}
 
+.itemExternalLinks a[href*="tvmaze.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="tvmaze.com"]::before {
@@ -488,8 +976,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvmaze.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvmaze.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvmaze.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="tvmaze.com"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/artist"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://vgmdb.net/artist"]::before {
@@ -504,8 +1008,24 @@
 	vertical-align: middle;
 }
 
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/artist"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/artist"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/artist"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
 .itemExternalLinks a[href*="https://vgmdb.net/artist"] {
 	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/album"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
 }
 
 .itemExternalLinks a[href*="https://vgmdb.net/album"]::before {
@@ -518,6 +1038,16 @@
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/album"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/album"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/album"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
 }
 
 .itemExternalLinks a[href*="https://vgmdb.net/album"] {
