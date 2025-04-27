@@ -88,10 +88,6 @@ Modify and add the following CSS to the top of `Dashboard -> General -> Custom C
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://CHANGE_ME:8111/webui/collection/group"] {
-	font-size: 0;
-}
-
 .itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:8111/webui/collection/group"]:hover,
 .itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:8111/webui/collection/group"]:focus,
 .itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:8111/webui/collection/group"]:active {
