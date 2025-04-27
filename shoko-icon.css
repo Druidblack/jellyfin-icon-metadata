@@ -1,63 +1,123 @@
-.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/group"]::before {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/group"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/group"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-group.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-group.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/group"] {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/group"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/series"]::before {
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/collection/group"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/collection/group"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/collection/group"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/group"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/series"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/series"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-series.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-series.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/collection/series"] {
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/collection/series"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/collection/series"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/collection/series"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/collection/series"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/episode"]::before {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/episode"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/episode"]::before {
 	content: "";
 	display: inline-block;
 	width: 65px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-episode.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-episode.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/episode"] {
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/redirect/episode"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/redirect/episode"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/redirect/episode"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/episode"] {
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/file"]::before {
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/file"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/file"]::before {
 	content: "";
 	display: inline-block;
 	width: 60px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shoko/shoko-file.png');
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-file.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
 }
 
-.itemExternalLinks a[href*="http://CHANGE_ME:8113/webui/redirect/file"] {
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/redirect/file"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/redirect/file"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="http://192.168.1.161:8113/webui/redirect/file"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="http://192.168.1.161:8113/webui/redirect/file"] {
 	font-size: 0;
 }
