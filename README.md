@@ -196,16 +196,30 @@ Modify and add the following CSS to the top of `Dashboard -> General -> Custom C
 Modify and add the following CSS to the top of `Dashboard -> General -> Custom CSS code`:
 
 ```css
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
 .itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"]::before {
 	content: "";
 	display: inline-block;
 	width: 35px;
 	height: 25px;
-	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/stash/stash.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
 	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/scenes"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/scenes"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/scenes"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
 }
 
 .itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"] {
