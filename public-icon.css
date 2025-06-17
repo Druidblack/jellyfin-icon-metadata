@@ -327,9 +327,9 @@
 .itemExternalLinks a[href*="https://movie.douban.com/subject"]::before {
 	content: "";
 	display: inline-block;
-	width: 90px;
+	width: 25px;
 	height: 25px;
-	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/douban/douban.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/douban/douban2.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-right: 5px;
@@ -347,6 +347,38 @@
 }
 
 .itemExternalLinks a[href*="https://movie.douban.com/subject"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.douban.com/personage"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://www.douban.com/personage"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/douban/douban2.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.douban.com/personage"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.douban.com/personage"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.douban.com/personage"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://www.douban.com/personage"] {
 	font-size: 0;
 }
 
