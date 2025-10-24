@@ -27,3 +27,27 @@
 .itemExternalLinks a[href*="http://CHANGE_ME:9999/scenes"] {
 	font-size: 0;
 }
+
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/studios"]::before {
+	content: "";
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/studios"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/studios"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/studios"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/studios"] {
+	font-size: 0;
+}
