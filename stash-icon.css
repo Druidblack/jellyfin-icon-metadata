@@ -28,6 +28,12 @@
 	font-size: 0;
 }
 
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/studios"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
 .itemExternalLinks a[href*="http://CHANGE_ME:9999/studios"]::before {
 	content: "";
 	display: inline-block;
@@ -51,3 +57,34 @@
 .itemExternalLinks a[href*="http://CHANGE_ME:9999/studios"] {
 	font-size: 0;
 }
+
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/performers"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/performers"]::before {
+	content: "";
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/performers"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/performers"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="http://CHANGE_ME:9999/performers"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="http://CHANGE_ME:9999/performers"] {
+	font-size: 0;
+}
+
