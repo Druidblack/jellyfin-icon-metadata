@@ -1086,6 +1086,186 @@
 	font-size: 0;
 }
 
+.itemExternalLinks a[href*="/scenes/"]:not([href*="theporndb.net"]) {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/scenes/"]:not([href*="theporndb.net"])::before {
+	content: "";
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/scenes/"]:not([href*="theporndb.net"]):hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/scenes/"]:not([href*="theporndb.net"]):focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/scenes/"]:not([href*="theporndb.net"]):active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/scenes/"]:not([href*="theporndb.net"]) {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/studios/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/studios/"]::before {
+	content: "";
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/studios/"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/studios/"]:focus,
+.itemExternalLinks.focuscontainer-x > [href*="/studios/"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/studios/"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/performers/"]:not([href*="theporndb.net"]) {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/performers/"]:not([href*="theporndb.net"])::before {
+	content: "";
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/performers/"]:not([href*="theporndb.net"]):hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/performers/"]:not([href*="theporndb.net"]):focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/performers/"]:not([href*="theporndb.net"]):active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/performers/"]:not([href*="theporndb.net"]) {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/webui/collection/series/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/webui/collection/series/"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-series.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/webui/collection/series/"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/webui/collection/series/"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/webui/collection/series/"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/webui/collection/series/"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/episodes?episodeId="] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/episodes?episodeId="]::before {
+	content: "";
+	display: inline-block;
+	width: 65px;
+	height: 25px;
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-episode.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/episodes?episodeId="]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/episodes?episodeId="]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/episodes?episodeId="]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/episodes?episodeId="] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/files?fileId="] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/files?fileId="]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-file.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/files?fileId="]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/files?fileId="]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/files?fileId="]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/files?fileId="] {
+	font-size: 0;
+}
+
 .itemExternalLinks.focuscontainer-x {
 	color: #000a;
 }
