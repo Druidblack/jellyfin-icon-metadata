@@ -61,6 +61,8 @@ Most icons can be imported using the following CSS:
 
 Add this to the top of `Dashboard -> General -> Custom CSS code`.
 
+**It is no longer relevant. shoko and stash now work when using public-icon.css**
+
 ### Local Metadata Providers
 
 For local metadata providers like Stash and Shoko, update the CSS files with your local server address.
