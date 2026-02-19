@@ -299,3 +299,7 @@ Modify and add the following CSS to the top of `Dashboard -> General -> Custom C
 ![Anime Episode](https://github.com/user-attachments/assets/2a04a2f9-ac98-4017-a838-37ca733489eb)
 
 **Credits:** This idea was inspired by the theme [Finimalism](https://github.com/tedhinklater/finimalism).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Druidblack/jellyfin-icon-metadata&type=date&legend=top-left)](https://www.star-history.com/#Druidblack/jellyfin-icon-metadata&type=date&legend=top-left)
