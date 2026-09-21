@@ -958,13 +958,13 @@
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="api.simkl"] {
+.itemExternalLinks a[href*="api.simkl.com"] {
     background: none !important;
     color: transparent !important;
     padding: 0 !important;
 }
 
-.itemExternalLinks a[href*="api.simkl"]::before {
+.itemExternalLinks a[href*="api.simkl.com"]::before {
 	content: "";
 	display: inline-block;
 	width: 25px;
@@ -976,9 +976,9 @@
 	vertical-align: middle;
 }
 
-.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl"]:hover,
-.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl"]:focus,
-.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl"]:active {
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl.com"]:active {
     background: none !important;
 	background-color: transparent !important;
     background-image: none !important;
@@ -986,7 +986,7 @@
     border-color: transparent !important;
 }
 
-.itemExternalLinks a[href*="api.simkl"] {
+.itemExternalLinks a[href*="api.simkl.com"] {
 	font-size: 0;
 }
 
