@@ -702,13 +702,13 @@
 	font-size: 0;
 }
 
-.itemExternalLinks a[href*="shikimori.one"] {
+.itemExternalLinks a[href*="shikimori.io"] {
     background: none !important;
     color: transparent !important;
     padding: 0 !important;
 }
 
-.itemExternalLinks a[href*="shikimori.one"]::before {
+.itemExternalLinks a[href*="shikimori.io"]::before {
 	content: "";
 	display: inline-block;
 	width: 25px;
@@ -720,9 +720,9 @@
 	vertical-align: middle;
 }
 
-.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:hover,
-.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:focus,
-.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:active {
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.io"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.io"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.io"]:active {
     background: none !important;
 	background-color: transparent !important;
     background-image: none !important;
@@ -730,7 +730,7 @@
     border-color: transparent !important;
 }
 
-.itemExternalLinks a[href*="shikimori.one"] {
+.itemExternalLinks a[href*="shikimori.io"] {
 	font-size: 0;
 }
 
