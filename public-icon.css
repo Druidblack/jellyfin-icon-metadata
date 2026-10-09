@@ -1118,6 +1118,38 @@
 	font-size: 0;
 }
 
+.itemExternalLinks a[href*="music.yandex.ru"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="music.yandex.ru"]::before {
+	content: "";
+	display: inline-block;
+	width: 80px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/yandexmusic/yandex_music.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="music.yandex.ru"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="music.yandex.ru"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="music.yandex.ru"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="music.yandex.ru"] {
+	font-size: 0;
+}
+
 .itemExternalLinks a[href*="/scenes/"]:not([href*="theporndb.net"]) {
     background: none !important;
     color: transparent !important;
