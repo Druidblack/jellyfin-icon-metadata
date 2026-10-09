@@ -17,7 +17,7 @@ Enhance your Jellyfin experience by replacing text-based metadata provider links
 - imdb.com
 - kitsu.app
 - myanimelist.net
-- shikimori.one
+- shikimori.io
 - Shoko (local metadata provider)
 - Stash (local metadata provider)
 - themoviedb.org
@@ -45,6 +45,7 @@ Enhance your Jellyfin experience by replacing text-based metadata provider links
 - theaudiodb.com
 - vgmdb.net
 - imvdb.com
+- yandexmusic
 
 ## Adding New Metadata Providers
 
